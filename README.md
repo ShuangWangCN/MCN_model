@@ -11,7 +11,7 @@ The original data of protein and molecules are obtained from [DUD-E](http://dude
 
 ## train (cross validation)
 
-The model is trained on The training dataset.<br>
+The model is trained on the training dataset.<br>
 **python train_MCN_target.py** <br>
 ## test
 This is to do the prediction with the models we trained. And this step is to reproduce the experiments. <br>
